@@ -66,6 +66,7 @@ input{
     background-color: white;
     color: gray;
     font-size: 15px;
+    outline: none;
 }
 #i1{
     background-color: white;
